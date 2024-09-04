@@ -7,3 +7,7 @@ x,y,z = numbers
 print(x)
 print(y)
 print(z)
+#tuples of product
+item = ("beans","bread","milk","flour","egg","rice","spagetti")
+ugent_item = item[4], item[2],item[-1]
+print(ugent_item)

@@ -15,3 +15,13 @@ for x_count in numbers:
    for count in range(x_count):
       output += 'x'
       print(output)
+for number in range(3):
+   print("Attempting to show",  number, (number + 1) * "." )
+#program to find the small word in a words
+numbers = (2,3,5,78)
+small_number = numbers[0]
+for number in numbers:
+   print(number)
+ 
+
+

@@ -11,3 +11,6 @@ print(z)
 item = ("beans","bread","milk","flour","egg","rice","spagetti")
 ugent_item = item[4], item[2],item[-1]
 print(ugent_item)
+product = (2,3,5,67,7,8,)
+print(product[3])
+

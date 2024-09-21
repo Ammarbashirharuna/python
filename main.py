@@ -211,21 +211,21 @@ print(my_day)
 #search for a string
 my_words =  "am" in "Hello guys am sorry for not being there so am really trying to update my time from today to perfom"
 print(my_words)
-#practice 
+#practice
 time_search = "Assalamu" in "Assalamu alaikum guys welcome to our startup company hope you are doing well"
 print(time_search)
-#find mesthod searching for a string 
+#find mesthod searching for a string
 me = """you are really welcome to our project and we hope you can achieve anything we assign you to do"""
 print(me.find("to"))
 #a way to count  for a string is using count method to find how many times it appears
 temprature = "hello guys our time it has more convienient time here so please do what is taking us for here"
 print(temprature.count("time"))
-#check content in python 
+#check content in python
 temprature = "the mars temprature is: 50% C and the marcury is"
 part = temprature.split(':')
 print(part)
 print(part[-1])
-#using irregular method 
+#using irregular method
 temprature = "the reason why temprature is 50 % 80 C in nothan is that "
 for item in temprature.split():
     if item.isnumeric():

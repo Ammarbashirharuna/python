@@ -22,6 +22,14 @@ numbers = (2,3,5,78)
 small_number = numbers[0]
 for number in numbers:
    print(number)
- 
-
-
+eligible = True
+is_student = False
+banker = True
+if eligible and is_student:
+   print("you are Good to bro")
+elif eligible and not is_student:
+   print("sorry you can't have a loan because you are not a student")
+elif (eligible or is_student) and not banker:
+   print("hi there we can help you to have some cash")
+else:
+   print("good bye")

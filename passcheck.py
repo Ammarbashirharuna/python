@@ -12,4 +12,10 @@ elif check == True and  find == True:
     print(password)
 elif check == True and find == False:
     print("this password is very week to use as security")
+#chainig operators
+age = 90
+if age <= age < 65:
+    print("eligible")
+else:
+    print("not eligible")
 

@@ -1,5 +1,4 @@
 # This Repo contains my python journey from hello world to more advance conept
-## control Flow Folder
 ## Control Flow Folder
 the folder contain python control flow loops,while loops,for else
 ## Data Structures Folder

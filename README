@@ -1,4 +1,4 @@
- # This Repo contains my python journey from hello world to more advance conept
+### This Repo contains my python journey from hello world to more advance conept
 ##control Flow Folder
 the folder contain python control flow loops,whil
 ## data Structures Folder
@@ -15,5 +15,5 @@ this folder contain some programs about DSA like fizzbuzz,
 finding the most repeated word
 ## function Folder
 this folder contain the fucntion logic and some tricks or way like Xargs and xxargs
-## Main.py
+##Main.py
 this file contain bunch of code which combine all the practices and algorithms and logic that i have coded with python

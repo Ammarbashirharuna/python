@@ -1,7 +1,7 @@
-# this Repo contains my python journey from hello world to more advance conept
+# This Repo contains my python journey from hello world to more advance conept
 ## control Flow Folder
 the folder contain python control flow loops,whil
-## data Structures Folder
+## Data Structures Folder
 this folder contains python Datastructures
 Array
 Dictionary

@@ -1,10 +1,7 @@
 # This Repo contains my python journey from hello world to more advance conept
-<<<<<<< HEAD:README.md
 ## control Flow Folder
-=======
 ## Control Flow Folder
->>>>>>> 53156abd18f2c2ad2b616005eebce0b5be7a97d5:README
-the folder contain python control flow loops,whil
+the folder contain python control flow loops,while loops,for else
 ## Data Structures Folder
 this folder contains python Datastructures
 Array

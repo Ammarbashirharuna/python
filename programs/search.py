@@ -15,6 +15,5 @@ is_boy = True
 a_student = False
 if (is_boy and a_student) or (is_boy and not a_student):
     print("hmmm you are eligible boy")
-    
 
 

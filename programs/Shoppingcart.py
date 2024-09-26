@@ -17,18 +17,18 @@ print(available_product)
 while True:
     add = input("Add product to Cart ")
     print(f"you have added {add} to your shopping item")
-    products.append(products)
+    products.append(add)
     if add == 'finish':
         products.pop()
-        print(f"the item you have buy is {products} thanks for buying from our store")
+        print(f"the item you have buy is {products} Thanks for buying this product from our shop!")
         break
-pay = input("Do you want to cashout your product?  Y/N")
-if pay := "Y":
-    total = 0
-    for value in available_product:
-        total += value
-        print(f"the total item you have buy is {total}")
-        print("Cash please")
+checkout = input("Do you want checkout the product?".lower())
+if checkout == "y":
+    product = dict(products)
+    print(products)
+    # for key in products:
+    #     print(key, products[key])
+
 
 
 

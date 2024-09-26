@@ -12,8 +12,8 @@ stack
 Tuples
 ## Program Folder
 this folder contain some programs about DSA like fizzbuzz,
-finding the most repeated word
+finding the most repeated word and other programs about problem solving and practice
 ## function Folder
 this folder contain the fucntion logic and some tricks or way like Xargs and xxargs
-##Main.py
-this file contain bunch of code which combine all the practices and algorithms and logic that i have coded with python
+## main.py
+this file contain bunch of code which combine all the practices and some  algorithms and logic that i have coded with python

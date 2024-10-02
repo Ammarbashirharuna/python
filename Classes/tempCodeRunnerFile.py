@@ -1,2 +1,1 @@
-  self.eat = eat
-        self.drink = drink
+print(Man.default_skin_color)

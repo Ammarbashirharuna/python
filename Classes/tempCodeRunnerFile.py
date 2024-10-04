@@ -1,1 +1,2 @@
-print(Man.default_skin_color)
+  # def __setitem__(self, tag, count):
+    #     self.tags[tag.lower()] = count

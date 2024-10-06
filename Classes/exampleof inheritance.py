@@ -5,11 +5,12 @@ class InvalidOperationError(Exception):
 class Stream(ABC):
     def open(self):
         self.open = False
-    
+
     def open(self):
         if self.opened:
             raise InvalidOperationError("stream is already open")
         self.open = True
+
     def close(self):
         if not self.opened:
             raise InvalidOperationError("stream is already close")

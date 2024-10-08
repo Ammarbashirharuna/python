@@ -17,3 +17,7 @@ finding the most repeated word and other programs about problem solving and prac
 this folder contain the fucntion logic and some tricks or way like Xargs and xxargs
 ## app.py
 this file contain bunch of code which combine all the practices and some  algorithms and logic that i have coded with python
+## modules
+## standardLibrary
+## Exceptions
+## Classes

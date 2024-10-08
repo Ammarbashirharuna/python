@@ -2,7 +2,7 @@ from ecommerce.shopping import sales
 #importing the complete module as an object from package and sub package
 import ecommerce.shopping.sales
 """here is the example of subpackage 
-    as our program grow we should need a packages and sub packages so that is why we need to imppor sub packages
+    as our program grow we should need a packages and sub packages so that is why we need to import sub packages
     from packages
 """
 #calling it as an object from package and sub package

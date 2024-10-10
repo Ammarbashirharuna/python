@@ -12,7 +12,7 @@ def user_choice():
 def displaying_choices(user_choice, computer_choice):
       print(f"You choose {emojis[user_choice]}")
       print(f"computer choose {emojis[computer_choice]}")
- 
+
 
 def determine_winner(user_choice,computer_choice):
     if user_choice == computer_choice:
@@ -35,6 +35,6 @@ def playing_game():
        if select_continue == 'n':
         break
 
-playing_game()
+    playing_game()
 
 

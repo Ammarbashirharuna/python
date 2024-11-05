@@ -14,7 +14,7 @@ with open(filename, 'r') as file:
 with open(filename, 'a') as file:
     for fruit in fruits:
         file.write(fruit + "\n")
-    
+
     print("append successifully")
 
 #deleting file

@@ -17,3 +17,15 @@ for i in greetig:
         prewuency[i] = 1
 values = sorted(prewuency.items(), key=lambda kv:kv[1], reverse=True)
 print(values[0])
+
+new_words = "welcome to our new learning journey bro hope you are doing well so i think"
+prequency = {}
+for i in words:
+    if i in prequency:
+        prequency[i] += 1
+    else: 
+        prequency[i] = 1
+another_values = sorted(preq.items(), key=lambda kv:kv[i], reverse=True)
+print(another_values[0])
+
+print("When did you know about")

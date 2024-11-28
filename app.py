@@ -343,9 +343,3 @@ while i <= 5:
 print("terminate")
 Astron
 canva
-
-
-
-
-
-
